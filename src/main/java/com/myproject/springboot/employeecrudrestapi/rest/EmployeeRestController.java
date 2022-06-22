@@ -16,7 +16,7 @@ import com.myproject.springboot.employeecrudrestapi.entity.Employee;
 import com.myproject.springboot.employeecrudrestapi.service.EmployeeService;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/v1")
 public class EmployeeRestController {
 
 	private EmployeeService employeeService;
