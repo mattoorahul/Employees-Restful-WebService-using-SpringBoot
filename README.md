@@ -11,14 +11,15 @@ Employees CRUD REST API with Spring Boot and Hibernate
 
 ![image](https://user-images.githubusercontent.com/34687415/175067097-a203835b-5f42-4af7-8abf-5e0d485806c1.png)
 
-2. GET : /v1/employees/{employeeId} <br/>
+## 2. GET : /v1/employees/{employeeId} <br/>
 
 ![image](https://user-images.githubusercontent.com/34687415/175067261-2e4ca4db-43d2-42ce-9f6b-fcd275f82cd0.png)
 
-3. POST : /v1/employees <br/>
+## 3. POST : /v1/employees <br/>
 
-5. PUT : /v1/employees <br/>
-6. DELETE : /v1/employees/{employeeId} <br/>
+## 4. PUT : /v1/employees <br/>
+
+## 5. DELETE : /v1/employees/{employeeId} <br/>
 
 ![image](https://user-images.githubusercontent.com/34687415/175068860-0acc8674-7c54-4ec2-bcb2-be25b7a4f911.png)
 
