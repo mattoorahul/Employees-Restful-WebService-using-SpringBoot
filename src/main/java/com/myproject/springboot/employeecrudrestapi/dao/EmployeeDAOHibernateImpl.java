@@ -9,7 +9,7 @@ import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.luv2code.springboot.cruddemo.entity.Employee;
+import com.myproject.springboot.employeecrudrestapi.entity.Employee;
 
 @Repository
 public class EmployeeDAOHibernateImpl implements EmployeeDAO {
