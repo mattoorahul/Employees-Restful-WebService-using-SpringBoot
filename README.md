@@ -1,4 +1,4 @@
-# Employees-Restful-WebService-using-SpringBoot
+# Employees Restful WebService using SpringBoot
 Employees CRUD REST API with Spring Boot and Hibernate
 
 # Steps to run the application
