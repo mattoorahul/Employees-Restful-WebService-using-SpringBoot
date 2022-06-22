@@ -7,7 +7,7 @@ Employees CRUD REST API with Spring Boot and Hibernate
 3. Run application as a Java application.
 
 # EndPoints
-1. GET : /v1/employees <br/>
+## 1. GET : /v1/employees <br/>
 
 ![image](https://user-images.githubusercontent.com/34687415/175067097-a203835b-5f42-4af7-8abf-5e0d485806c1.png)
 
@@ -23,4 +23,4 @@ Employees CRUD REST API with Spring Boot and Hibernate
 ![image](https://user-images.githubusercontent.com/34687415/175068860-0acc8674-7c54-4ec2-bcb2-be25b7a4f911.png)
 
 
-(This project is a part of the course Spring & Hibernate for Beginners (includes Spring Boot) by Chad Darby)
+This project is a part of the course Spring & Hibernate for Beginners (includes Spring Boot) by Chad Darby
